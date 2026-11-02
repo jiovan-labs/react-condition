@@ -1,5 +1,5 @@
 {
-    "name": "ReactCondition",
+    "name": "React Condition",
     "entryPoints": [
         "src/index.ts"
     ],
@@ -20,27 +20,27 @@
     ],
     "includeVersion": false,
     "navigationLinks": {
-        "GitHub": "https://github.com/unikueltd/react-condition",
-        "Unikue": "https://unikue.cn"
+        "GitHub": "https://github.com/joivan-labs/react-condition",
+        "Jiovan": "https://joivan.com"
     },
     "plugin": [
-        "@unikue/typedoc-plugin-raw-content",
-        "@unikue/typedoc-theme-dumi"
+        "@jiovan-labs/typedoc-plugin-raw-content",
+        "@jiovan-labs/typedoc-theme-dumi"
     ],
     "theme": "dumi",
     "rawHeadEnds": [
-        "<meta name='keywords' content='typescript, unikue, react-condition'/>"
+        "<meta name='keywords' content='typescript, jiovan, react-condition'/>"
     ],
     "rawFooterEnds": [
-        "<div style='text-align: center'>Copyright &copy; 2025 Unikue Ltd. All rights reserved</div>"
+        "<div style='text-align: center'>Copyright &copy; 2026 Jiovan Ltd. All rights reserved</div>"
     ],
-    "logoImage": "https://unikueltd.github.io/assets/ico/logo-icon.svg",
+    "logoImage": "https://jiovan-labs.github.io/assets/ico/logo-icon.svg",
     "logoWidth": 32,
     "logoHeight": 32,
-    "logoTitle": "@unikue/react-condition",
+    "logoTitle": "@jiovan-labs/react-condition",
     "navigationLinkTargets": {
         "GitHub": "_blank",
-        "Unikue": "_blank"
+        "Jiovan": "_blank"
     },
     "preventModulesLink": true,
     "hideIndexContentTitle": true,

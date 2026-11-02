@@ -6,8 +6,8 @@ export default {
     moduleNameMapper: {
         '^@$': '<rootDir>/src',
         '^@/(.*)$': '<rootDir>/src/$1',
-        '^@unikue/react-condition$': '<rootDir>/src',
-        '^@unikue/react-condition/(.*)$': '<rootDir>/src/$1'
+        '^@jiovan-labs/react-condition$': '<rootDir>/src',
+        '^@jiovan-labs/react-condition/(.*)$': '<rootDir>/src/$1'
     },
     transform: {
         '^.+\\.tsx?$': ['ts-jest', {

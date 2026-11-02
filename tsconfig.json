@@ -21,10 +21,10 @@
             "@/*": [
                 "./src/*"
             ],
-            "@unikue/react-condition": [
+            "@jiovan-labs/react-condition": [
                 "./src"
             ],
-            "@unikue/react-condition/*": [
+            "@jiovan-labs/react-condition/*": [
                 "./src/*"
             ]
         },
