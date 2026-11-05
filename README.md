@@ -297,7 +297,7 @@ This project is under the [MIT License](https://mit-license.org/).
 
 ## Copyright
 
-Beijing Jiovan Network Technology Ltd.
+Beijing Jiovan Technology Ltd.
 
 ## Website
 

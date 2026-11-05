@@ -1,6 +1,6 @@
 {
     "name": "@jiovan-labs/react-condition",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "title": "React Condition",
     "description": "Render components conditionally for react",
     "homepage": "https://jiovan-labs.github.io/react-condition",
